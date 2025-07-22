@@ -6,9 +6,9 @@
 
 **Akash Mahla** - Full Stack Developer & Game Creator
 
-[![GitHub](https://img.shields.io/badge/GitHub-akashmahlax-black?logo=github&style=for-the-badge)](https://github.com/akashmahlax)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Mahla-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/akashmahlax)
-
+ [GitHub](https://github.com/akashmahlax)
+ [Linkedin](https://linkedin/in/akashmahlax)
+ 
 ## 🌟 Features
 
 ### 🎮 Game Mechanics
@@ -63,6 +63,9 @@ aviator-crash-game/
 │   │   ├── routes/
 │   │   ├── services/
 │   │   └── utils/
+|   | 
+|___aviator-backend
+   
 ```
 
 ---
@@ -122,7 +125,7 @@ This project is created by **Akash Mahla**. All rights reserved.
 
 **Skills**: React.js, TypeScript, Node.js, MongoDB, Socket.IO, Game Development
 
-**Contact**: [Telegram](https://t.me/cashblaze129) | [GitHub](https://github.com/akashmahlax)
+**Contact**:  [GitHub](https://github.com/akashmahlax)
 
 ---
 
